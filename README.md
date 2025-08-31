@@ -4,6 +4,11 @@
 
 ---
 
+## Demo Video Link
+https://drive.google.com/file/d/1U9Fl8JEOhhqIfWSTmzhdQUgf7c3zCs6E/view?usp=drive_link
+
+---
+
 ## ✨ Key Features
 - **Conversational AI Assistant** – Interact with DeFi using plain English, powered by **Google Gemini AI**.  
 - **Real Wallet Integration** – Connect your **Coinbase Wallet** to check balances and perform transactions directly from chat.  
