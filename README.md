@@ -7,9 +7,11 @@
 ## ✨ Key Features
 - **Conversational AI Assistant** – Interact with DeFi using plain English, powered by **Google Gemini AI**.  
 - **Real Wallet Integration** – Connect your **Coinbase Wallet** to check balances and perform transactions directly from chat.  
-- **Gas-less USDC Transactions** – Paymaster API integration removes the need for ETH for certain USDC actions.  
+- **Gas-less USDC Transactions** – Paymaster API integration from **Coinbase SDK** removes the need for ETH for certain USDC actions.  
 - **x402 Micropayments** – Seamless micropayments for premium AI features via the **x402 protocol**.  
 - **Modern Multi-Section UI** – Built with **Next.js** to guide users through DeFi concepts and features.
+- **Blockchain Integration** – Built and deployed with **Solidity** and **Hardhat** to guide users through DeFi concepts and features.
+
 
 ---
 
