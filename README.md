@@ -14,10 +14,11 @@
 ---
 
 ## 📸 Screenshots
-![DeFiGenie Landing Page](assets/landing.jpg)
+
+![DeFiGenie Landing Page](assets/landing.png)
 _The DeFiGenie Landing Page_
 
-![Impact](assets/impact.jpg)
+![Impact](assets/impact.png)
 _The DeFiGenie Impact_
 
 ![Chat Assistant](assets/chat.png)
